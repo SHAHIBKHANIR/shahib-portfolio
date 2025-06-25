@@ -1,12 +1,57 @@
-# React + Vite
+# 🚀 Shahib Khan IR - Developer Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Welcome to my personal developer portfolio!  
+Built using **React + Vite + Tailwind CSS**, this site showcases my skills, experience, projects, and contact information.
 
-Currently, two official plugins are available:
+🔗 **Live Site**:  
+👉 [https://shahibkhanir.github.io/shahib-portfolio/](https://shahibkhanir.github.io/shahib-portfolio/)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## Expanding the ESLint configuration
+## 💼 About Me
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- 🎯 Frontend Developer & Android UI/UX Designer  
+- 💡 MERN Stack Enthusiast  
+- 👨‍💻 Passionate about building user-friendly web apps  
+- 📍 Based in India
+
+---
+
+## 🛠 Tech Stack
+
+- **Frontend**: HTML5, CSS3, JavaScript (ES6+), React.js, Tailwind CSS, Bootstrap  
+- **Backend (Basic)**: Node.js, MongoDB  
+- **Tools**: Git, GitHub, Figma, Adobe XD, Android Studio  
+- **Others**: Responsive Design, EmailJS, GitHub Pages
+
+---
+
+## 📁 Portfolio Sections
+
+- **About** – A quick intro and photo  
+- **Skills** – Technologies I work with  
+- **Projects** – Live previews + GitHub links  
+- **Experience** – Professional background  
+- **Certifications** – My technical achievements  
+- **Contact** – Form powered by EmailJS
+
+---
+
+## 📬 Contact Me
+
+- 📧 Email: shahibkhanir@gmail.com  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/shahibkhan/)  
+- 🐱 [GitHub](https://github.com/SHAHIBKHANIR)  
+- 📸 [Instagram](https://www.instagram.com/khan_shahibkhan/)  
+- 🐦 [Twitter](https://x.com/IrShahib)
+
+---
+
+## 🚀 How to Use
+
+1. Clone this repo:
+   ```bash
+   git clone https://github.com/SHAHIBKHANIR/shahib-portfolio.git
+   cd shahib-portfolio
+   npm install
+   npm run dev
