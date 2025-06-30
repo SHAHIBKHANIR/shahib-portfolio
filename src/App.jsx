@@ -53,6 +53,29 @@ function App() {
       <Experience />
       <Certifications />
       <Contact />
+      <footer className="bg-gray-900 text-white py-6 text-center mt-12">
+        <p className="text-lg font-semibold">Shahib Khan IR</p>
+        <p className="text-sm mb-2">
+          {/* <a href="mailto:shahibkhanir@gmail.com" className="hover:underline text-blue-400">
+            ir.shahibkhan@gmail.com
+          </a> */}
+        </p>
+        <div className="flex justify-center space-x-6 text-2xl mb-3">
+          <a href="https://github.com/SHAHIBKHANIR" target="_blank" rel="noreferrer" className="hover:text-gray-300">
+            <FaGithub />
+          </a>
+          <a href="https://www.linkedin.com/in/shahibkhan/" target="_blank" rel="noreferrer" className="hover:text-gray-300">
+            <FaLinkedin />
+          </a>
+          <a href="https://www.instagram.com/khan_shahibkhan/" target="_blank" rel="noreferrer" className="hover:text-gray-300">
+            <FaInstagram />
+          </a>
+          <a href="https://x.com/IrShahib" target="_blank" rel="noreferrer" className="hover:text-gray-300">
+            <FaTwitter />
+          </a>
+        </div>
+        <p className="text-xs text-gray-400"><b>© Copyright {new Date().getFullYear()-1}. Made by <u>Shahib Khan IR</u>.</b></p>
+      </footer>
     </div>
   );
 }
