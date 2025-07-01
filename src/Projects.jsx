@@ -12,7 +12,7 @@ function Projects() {
         {
             name: "Task Manager Web App",
             description:
-                "A task management web app with create/edit/delete features, LocalStorage persistence, and Excel export using SheetJS.",
+                "A fully functional task manager web app with task creation, editing, completion, and deletion. Includes LocalStorage persistence, deadline support, Excel export (SheetJS), download history, and resume/edit past sessions.",
             tech: "HTML, CSS, JavaScript, SheetJS",
             link: "https://github.com/SHAHIBKHANIR/task-manager", // ✅ your working GitHub link
             demo: " https://shahibkhanir.github.io/task-manager/",
