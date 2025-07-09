@@ -22,8 +22,8 @@ function Projects() {
             description:
                 "Designed and developed a modern responsive website for SmartRobust-TechSolution Pvt. Ltd. with interactive sections and branding.",
             tech: "HTML, CSS, JavaScript, Bootstrap, Node.js, MongoDB",
-            link: "https://github.com/SHAHIBKHANIR/SR-group-website", // ✅ your working GitHub link
-            demo: "",
+            // link: "https://github.com/SHAHIBKHANIR/SR-group-website", // ✅ your working GitHub link
+            // demo: "",
         },
         {
             name: "Home Interior Website🏡",
