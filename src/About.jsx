@@ -4,7 +4,7 @@ function About() {
       <div className="w-full px-4 md:px-12 lg:px-20">
         <h2 className="text-3xl font-bold mb-4">About Me</h2>
         <p className="text-lg text-gray-600 dark:text-gray-300 leading-relaxed">
-          I’m a passionate MERN Stack Developer with over 2 years of experience building scalable web and mobile applications. I specialize in React.js, Node.js, and intuitive UI/UX design. I love turning ideas into real products that improve people's lives.
+          I’m a passionate MERN Stack Developer with over 2 years of experience crafting scalable web and mobile applications. My expertise lies in React.js, Node.js, and creating seamless UI/UX designs. I thrive on transforming ideas into real-world digital solutions that enhance user experiences and make a positive impact.
         </p>
       </div>
     </section>
