@@ -96,6 +96,14 @@ function Projects() {
             tech: "HTML, CSS, JavaScript, JSON, html2canvas, localStorage",
             link: "https://github.com/SHAHIBKHANIR/skill-to-job-matcher",
             demo: "https://shahibkhanir.github.io/skill-to-job-matcher/"
+        },
+        {
+            name: "Text to Speech Converter 🔈",
+            description:
+                "A modern web app that converts text to spoken audio using the Web Speech API. Supports voice selection, pitch/rate control, and file upload for .txt, .pdf, and .docx formats. Includes real-time controls and dark mode toggle for better UX.",
+            tech: "HTML, CSS, JavaScript, Web Speech API, pdf.js, mammoth.js",
+            link: "https://github.com/SHAHIBKHANIR/text-to-speech",
+            demo: "https://shahibkhanir.github.io/text-to-speech/"
         }
     ];
 
